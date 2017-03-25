@@ -1,3 +1,7 @@
+## See: "My Answer_Conceptual Question.md" and "My Answer_Applied Question.ipynb"
+
+---
+
 # Junior Data Analyst Data Test
 This is the data test for the Junior Data Analyst position at Azavea. Please complete the questions below and submit your responses in the next week. The first question is conceptual and a **written response** is expected. The second question and its several parts are applied. A submission of the **code** used to solve the problems, the **answers**, along with any **plots or graphics** generated are expected as responses. 
 
