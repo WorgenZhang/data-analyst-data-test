@@ -1,4 +1,4 @@
-## See: "My Answer_Conceptual Question.md" and "My Answer_Applied Question.ipynb"
+## Please see "My Answer_Conceptual Question.md" and "My Answer_Applied Question.ipynb"
 
 ---
 
